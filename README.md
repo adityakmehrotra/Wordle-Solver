@@ -16,10 +16,26 @@ Ensure you have Python installed on your machine. Python 3.8 or later is recomme
 ### Installation
 
 #### Clone the Repository
+
 ```bash
-git clone https://github.com/yourusername/wordle-solver.git
+git clone https://github.com/adityakmehrotra/wordle-solver.git
 cd wordle-solver
 ```
+
+#### Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+#### Usage
+To use the Wordle Solver, run the main script from the command line:
+
+```bash
+python wordle_solver.py
+```
+
+##### Follow the on-screen prompts to input letters and receive the next suggested guess.
 
 ### Last Updated
 06/24/2024
