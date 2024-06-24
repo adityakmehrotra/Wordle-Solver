@@ -28,7 +28,7 @@ cd wordle-solver
 pip install -r requirements.txt
 ```
 
-#### Usage
+### Usage
 To use the Wordle Solver, run the main script from the command line:
 
 ```bash
@@ -36,6 +36,16 @@ python wordle_solver.py
 ```
 
 ##### Follow the on-screen prompts to input letters and receive the next suggested guess.
+
+## Contributing
+Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request for review.
+
+## Acknowledgments
+Thanks to all the contributors who have invested their time and effort in improving this project.
+Special thanks to AWS for hosting services.
+
+## Contact
+For any queries, you can reach out at `adi1.mehrotra@gmail.com`.
 
 ### Last Updated
 06/24/2024
