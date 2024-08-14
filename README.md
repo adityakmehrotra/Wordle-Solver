@@ -1,7 +1,7 @@
 # Wordle-Solver
 
 ## Overview
-The Wordle Solver is an advanced Python-based tool designed to optimize guesses in the popular Wordle game. By analyzing letter frequencies and positions within five-letter words, this algorithm achieves an impressive average of 3.67 guesses per game. Utilizing a recursive strategy, the solver systematically refines and eliminates word options, efficiently honing in on correct answers.
+Wordle Solver is an advanced Python-based tool designed to optimize guesses in the popular Wordle game. By analyzing letter frequencies and positions within five-letter words, this algorithm achieves an impressive average of 3.67 guesses per game. Utilizing a recursive strategy, the solver systematically refines and eliminates word options, efficiently honing in on correct answers.
 
 ## Features
 - **Optimal Guess Computation:** Calculates the most strategic guesses based on letter frequency and positional data.
