@@ -50,8 +50,7 @@
           <a href="#installation">Installation</a>
           <ul>
             <li><a href="#clone-the-repository">Clone the Repository</a></li>
-            <li><a href="#install-backend-dependencies">Install Backend Dependencies</a></li>
-            <li><a href="#clean-and-install-backend-dependencies">Clean and Install Frontend Dependencies</a></li>
+            <li><a href="#install-required-libraries">Install Required Libraries</a></li>
           </ul>
         </li>
         <li>
