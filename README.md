@@ -1,5 +1,4 @@
 <a id="readme-top"></a>
-# Wordle-Solver
 
 <div align="center">
   
@@ -9,6 +8,8 @@
   [![MIT License][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
 </div>
+
+# Wordle-Solver
 
 
 # About the Project
