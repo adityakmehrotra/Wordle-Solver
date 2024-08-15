@@ -37,9 +37,10 @@
     <li>
       <a href="#built-with">Built With</a>
       <ul>
-        <li><a href="#frontend">Programming Languages</a></li>
-        <li><a href="#backend">Data Science Libraries</a></li>
-        <li><a href="#data-visualization">Version Control</a></li>
+        <li><a href="#programming-languages">Programming Languages</a></li>
+        <li><a href="#data-science-libraries">Data Science Libraries</a></li>
+        <li><a href="#natural-language-processing">Natural Language Processing</a></li>
+        <li><a href="#version-control">Version Control</a></li>
       </ul>
     </li>
     <li>
@@ -50,14 +51,6 @@
           <a href="#installation">Installation</a>
           <ul>
             <li><a href="#clone-the-repository">Clone the Repository</a></li>
-            <li><a href="#install-required-libraries">Install Required Libraries</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="#installation">Running the Application</a>
-          <ul>
-            <li><a href="start-the-flask-backend">Start the Flask Backend</a></li>
-            <li><a href="start-the-react-fronted">Start the React Frontend</a></li>
           </ul>
         </li>
       </ul>
@@ -77,7 +70,7 @@
 [![Python][Python]][Python-url]
 [![NumPy][NumPy]][NumPy-url]
 [![Pandas][Pandas]][Pandas-url]
-[![R][R]][R-url]
+[![NLTK][NLTK]][NLTK-url]
 
 ## Overview
 Wordle Solver is an advanced Python-based tool designed to optimize guesses in the popular Wordle game. By analyzing letter frequencies and positions within five-letter words, this algorithm achieves an impressive average of 3.67 guesses per game. Utilizing a recursive strategy, the solver systematically refines and eliminates word options, efficiently honing in on correct answers.
@@ -121,12 +114,6 @@ Wordle Solver is an advanced Python-based tool designed to optimize guesses in t
 ```bash
 git clone https://github.com/adityakmehrotra/wordle-solver.git
 cd wordle-solver
-```
-
-### Install Required Libraries
-
-```bash
-pip install -r requirements.txt
 ```
 
 # Usage
