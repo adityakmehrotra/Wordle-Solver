@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # Wordle-Solver
 
 ## About the Project
