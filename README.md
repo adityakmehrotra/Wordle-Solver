@@ -97,46 +97,46 @@ Wordle Solver is an advanced Python-based tool designed to optimize guesses in t
 ## Version Control
 [![Git][Git]][Git-url]
 
-## Getting Started
+# Getting Started
 
-### Prerequisites
+## Prerequisites
 Ensure you have Python installed on your machine. Python 3.8 or later is recommended.
 
-### Installation
+## Installation
 
-#### Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/adityakmehrotra/wordle-solver.git
 cd wordle-solver
 ```
 
-#### Install Required Libraries
+### Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Usage
+# Usage
 To use the Wordle Solver, run the main script from the command line:
 
 ```bash
 python wordle_solver.py
 ```
 
-##### Follow the on-screen prompts to input letters and receive the next suggested guess.
+#### Follow the on-screen prompts to input letters and receive the next suggested guess.
 
-## Contributing
+# Contributing
 Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request for review.
 
-## License
+# License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Contact
+# Contact
 For any queries, you can reach out at `adi1.mehrotra@gmail.com`.
 
-## Acknowledgments
+# Acknowledgments
 Thanks to all the contributors who have invested their time and effort in improving this project.
 Special thanks to AWS for hosting services.
 
