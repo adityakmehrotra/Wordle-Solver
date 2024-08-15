@@ -10,9 +10,18 @@
 
 # Wordle-Solver
 
+</div>
 
-
-
+<br />
+<div align="center">
+  <p align="center">
+    A python algorihtm that optimizes user's guesses in Wordle. The user can use the algorithm to guess the word in Wordle with an average of 3.67 guesses per game. The algorithm uses a recursive strategy to analyze letter frequencies and predict the correct Wordle word.
+    <br />
+    <br />
+    <a href="https://github.com/adityakmehrotra/Wordle-Solver/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/adityakmehrotra/Wordle-Solver/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
 </div>
 
 # About the Project
