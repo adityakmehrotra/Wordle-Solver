@@ -137,10 +137,7 @@ For any queries, you can reach out at `adi1.mehrotra@gmail.com`.
 
 # Acknowledgments
 Thanks to all the contributors who have invested their time and effort in improving this project.
-Special thanks to AWS for hosting services.
 
-### Last Updated
-08/13/2024
 
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://python.org/
