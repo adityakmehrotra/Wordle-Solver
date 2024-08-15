@@ -110,9 +110,9 @@ Wordle Solver is an advanced Python-based tool designed to optimize guesses in t
   ```sh
   pip install pandas
   ```
-* matplotlib
+* matplotlib v3.9.2
   ```sh
-  npm install npm@latest -g
+  pip install matplotlib
   ```
 * seaborn
   ```sh
