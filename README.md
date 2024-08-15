@@ -131,6 +131,8 @@ Contributions to this project are welcome! Please fork the repository, make your
 
 ## License
 
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 ## Contact
 For any queries, you can reach out at `adi1.mehrotra@gmail.com`.
 
