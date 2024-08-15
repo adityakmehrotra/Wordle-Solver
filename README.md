@@ -28,7 +28,7 @@ Wordle Solver is an advanced Python-based tool designed to optimize guesses in t
 [![R][R]][R-url]
 
 ## Data Science Libraries
-[![React][React.js]][React-url]
+[![NumPy][NumPy]][NumPy-url]
 [![React][React.js]][React-url]
 [![React][React.js]][React-url]
 
