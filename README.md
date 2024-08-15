@@ -102,7 +102,19 @@ Wordle Solver is an advanced Python-based tool designed to optimize guesses in t
 
 ## Prerequisites
 * Ensure you have Python installed on your machine. Python 3.8 or later is recommended.
-* npm
+* numpy v2.0.1
+  ```sh
+  pip install numpy
+  ```
+* pandas
+  ```sh
+  npm install npm@latest -g
+  ```
+* matplotlib
+  ```sh
+  npm install npm@latest -g
+  ```
+* seaborn
   ```sh
   npm install npm@latest -g
   ```
