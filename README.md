@@ -10,6 +10,8 @@ Wordle Solver is an advanced Python-based tool designed to optimize guesses in t
 - **Recursive Solution Narrowing:** Implements a recursive method to progressively eliminate non-viable word options after each guess.
 - **Performance Metrics:** Tracks and displays performance statistics, including average guesses per game.
 
+## Built With
+
 ## Getting Started
 
 ### Prerequisites
