@@ -24,6 +24,55 @@
   </p>
 </div>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#features">Features</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#built-with">Built With</a>
+      <ul>
+        <li><a href="#frontend">Programming Languages</a></li>
+        <li><a href="#backend">Data Science Libraries</a></li>
+        <li><a href="#data-visualization">Version Control</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li>
+          <a href="#installation">Installation</a>
+          <ul>
+            <li><a href="#clone-the-repository">Clone the Repository</a></li>
+            <li><a href="#install-backend-dependencies">Install Backend Dependencies</a></li>
+            <li><a href="#clean-and-install-backend-dependencies">Clean and Install Frontend Dependencies</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#installation">Running the Application</a>
+          <ul>
+            <li><a href="start-the-flask-backend">Start the Flask Backend</a></li>
+            <li><a href="start-the-react-fronted">Start the React Frontend</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
 # About the Project
 
 ## Overview
