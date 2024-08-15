@@ -1,4 +1,5 @@
 <a id="readme-top"></a>
+# Wordle-Solver
 
 <div align="center">
   
@@ -9,7 +10,6 @@
   [![LinkedIn][linkedin-shield]][linkedin-url]
 </div>
 
-# Wordle-Solver
 
 ## About the Project
 
