@@ -44,12 +44,14 @@ python wordle_solver.py
 ## Contributing
 Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request for review.
 
-## Acknowledgments
-Thanks to all the contributors who have invested their time and effort in improving this project.
-Special thanks to AWS for hosting services.
+## License
 
 ## Contact
 For any queries, you can reach out at `adi1.mehrotra@gmail.com`.
+
+## Acknowledgments
+Thanks to all the contributors who have invested their time and effort in improving this project.
+Special thanks to AWS for hosting services.
 
 ### Last Updated
 08/13/2024
