@@ -99,6 +99,9 @@ Wordle Solver is an advanced Python-based tool designed to optimize guesses in t
 [![Matplotlib][Matplotlib]][Matplotlib-url]
 [![Seaborn][Seaborn]][Seaborn-url]
 
+## Natural Language Processing
+[![NLTK][NLTK]][NLTK-url]
+
 ## Version Control
 [![Git][Git]][Git-url]
 
@@ -161,6 +164,8 @@ Thanks to all the contributors who have invested their time and effort in improv
 [Matplotlib-url]: https://matplotlib.org/
 [Seaborn]: https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white
 [Seaborn-url]: https://seaborn.pydata.org/
+[NLTK]: https://img.shields.io/badge/NLTK-3E5A78?style=for-the-badge&logo=nltk&logoColor=white
+[NLTK-url]: https://www.nltk.org/
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 
