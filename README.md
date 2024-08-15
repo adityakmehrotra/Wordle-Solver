@@ -32,7 +32,7 @@ cd wordle-solver
 pip install -r requirements.txt
 ```
 
-### Usage
+## Usage
 To use the Wordle Solver, run the main script from the command line:
 
 ```bash
